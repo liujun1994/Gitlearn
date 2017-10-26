@@ -1,4 +1,4 @@
-Git is a version control system.
-fuck you mam
-di sang ban ben
-/bin/bash: wq: command not found
+GGit is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes./bin/bash: wq: command not found
