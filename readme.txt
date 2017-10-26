@@ -6,4 +6,5 @@ Git tracks changes.
   我做了修改
 1！
 加了一分支DEV  
+Creating a new branch is quick AND simple.
 /bin/bash: wq: command not found
